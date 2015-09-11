@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+   <account>
+        <number>899-7788-2</number>
+        <balance>100</balance>
+   </account>
+   <account>
+        <number>445-3359-5</number>
+        <balance>100</balance>
+   </account>
+   <account>
+        <number>789-4567-0</number>
+        <balance>100</balance>
+   </account>   
+</bank>
