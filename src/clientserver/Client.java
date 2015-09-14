@@ -12,7 +12,7 @@ public class Client {
         byte [] bytearray = new byte [filesize]; 
         InputStream is = socket.getInputStream(); 
         //FileOutputStream fos = new FileOutputStream("doc/copy.doc"); 
-        FileOutputStream fos = new FileOutputStream("doc/copy.xml"); 
+        FileOutputStream fos = new FileOutputStream("doc/copy2.xml"); 
         BufferedOutputStream bos = new BufferedOutputStream(fos); 
         bytesRead = is.read(bytearray,0,bytearray.length); 
         currentTot = bytesRead; 
